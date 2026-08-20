@@ -83,13 +83,13 @@ Analyzes:
 ## Dashboard Preview
 
 ### Netflix Overview
-![Netflix Overview](Netflix_Overview.png)
+![Netflix Overview](./Netflix%20Overview.png)
 
 ### IMDb Analysis
-![IMDb Analysis](IMDb%20Analysis.png)
+![IMDb Analysis](./IMDb%20Analysis.png)
 
 ### Runtime & Certification
-![Runtime & Certification](Runtime%20%26%20Certification.png)
+![Runtime & Certification](./Runtime%20%26%20Certification.png)
 
 ## Author
 
