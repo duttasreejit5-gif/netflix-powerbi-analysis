@@ -85,8 +85,8 @@ Analyzes:
 ### Netflix Overview
 ![Netflix Overview](./Netflix%20Overview.png)
 
-### IMDb Analysis
-![IMDb Analysis](./IMDb%20Analysis.png)
+### IMDB Analysis
+![IMDB Analysis](./IMDB%20Analysis.png)
 
 ### Runtime & Certification
 ![Runtime & Certification](./Runtime%20%26%20Certification.png)
