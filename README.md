@@ -82,7 +82,14 @@ Analyzes:
 
 ## Dashboard Preview
 
-Screenshots of the three dashboard pages will be added here.
+### Netflix Overview
+![Netflix Overview](Netflix_Overview.png)
+
+### IMDb Analysis
+![IMDb Analysis](IMDb%20Analysis.png)
+
+### Runtime & Certification
+![Runtime & Certification](Runtime%20%26%20Certification.png)
 
 ## Author
 
